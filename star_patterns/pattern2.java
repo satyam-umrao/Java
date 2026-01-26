@@ -11,3 +11,9 @@ public class pattern2 {
         }
     }
 }
+// output
+// * 
+// ** 
+// *** 
+// **** 
+// ***** 
