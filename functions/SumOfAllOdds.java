@@ -20,3 +20,9 @@ public class SumOfAllOdds {
         sc.close();
     }
 }
+
+
+// <<<-----------------------------------Output----------------------------------->>>
+// 
+// Enter Range : 10
+// Sum of all odd numbers from 1 to 10 id 25
