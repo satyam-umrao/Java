@@ -1,6 +1,6 @@
 package star_patterns;
 
-public class pattern5 {
+public class pattern05 {
     public static void main(String[] args) {
         // simple hollow square star pattern
         int n=5;

@@ -1,6 +1,6 @@
 package star_patterns;
 
-public class pattern9 {
+public class pattern09 {
     public static void main(String[] args) {
         // simple equilateral angle triangle
         int n=5;

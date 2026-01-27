@@ -1,6 +1,6 @@
 package star_patterns;
 
-public class pattern1 {
+public class pattern01 {
     public static void main(String[] args) {
 
     // simple rectangle star pattern

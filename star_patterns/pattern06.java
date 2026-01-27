@@ -1,6 +1,6 @@
 package star_patterns;
 
-public class pattern6 {
+public class pattern06 {
     public static void main(String[] args) {
         // simple triangle pattern
         int n=10;

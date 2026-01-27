@@ -1,6 +1,6 @@
 package star_patterns;
 
-public class pattern4 {
+public class pattern04 {
     public static void main(String[] args) {
         // Daimond pattern
         for(int i=1; i<=10 ; i++){
