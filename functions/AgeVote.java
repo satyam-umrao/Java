@@ -22,3 +22,8 @@ public class AgeVote {
         sc.close();
     }
 }
+
+// <<<-----------------------------------Output----------------------------------->>>
+// 
+// Enter your age: 19
+// You are eligible to vote.
