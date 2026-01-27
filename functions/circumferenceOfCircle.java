@@ -16,3 +16,8 @@ public class circumferenceOfCircle {
         sc.close();
     }
 }
+
+// <<<-----------------------------------Output----------------------------------->>>
+// 
+// Enter radius of circle : 7
+// Circumference of circle with radius 7.00 is 43.98
