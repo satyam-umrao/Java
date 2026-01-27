@@ -10,23 +10,28 @@ public class fibonacci {
         int a = 0;
         int b = 1;
         int c;
+        if(n>0){
         System.out.println("Fibonacci series up to " + n + ":");
         System.out.print(a+" ");
         System.out.print(b+" ");
-        for (int i = 0; i < n-2; i++) {
+        for (int i = 1; i < n; i++) {
             c=a+b;
+            if (c > n) break;
             System.out.print(c+" ");
             a=b;
             b=c;
+        }
+        }else{
+            System.out.println("Please enter a positive integer greater than 0.");
         }
         sc.close();
     }
 
 //  <<<------------------------------------Output------------------------------------>>>
 
-// Enter a number to find Fibonacci series up to that number: 10
-// Fibonacci series up to 10:
-// 0 1 1 2 3 5 8 13 21 34 
+// Enter a number to find Fibonacci series up to that number: 22
+// Fibonacci series up to 22:
+// 0 1 1 2 3 5 8 13 21
  
 
 }
