@@ -17,3 +17,9 @@ public class average {
         sc.close();
     }
 }
+
+// <<<-----------------------------------Output----------------------------------->>>
+
+// Enter first number : 12
+// Enter Second number : 14
+// Average of 12 and 14 is 13
