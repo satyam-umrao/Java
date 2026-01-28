@@ -37,3 +37,14 @@ public class findNumber {
         sc.close();
     }
 }
+
+// <<<-----------------------Output----------------------->>>
+// 
+// Enter no of rows : 3
+// Enter no of columns : 3
+// Enter matrix Elements : 
+// 1 2 3 
+// 4 5 6
+// 7 8 9
+// Enter number to find : 6
+// Number found at (2,3) position
