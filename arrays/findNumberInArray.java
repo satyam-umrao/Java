@@ -23,8 +23,16 @@ public class findNumberInArray {
         for(int i=0 ; i<size ; i++){
             if(arr[i] == num){
                 System.out.print("Number found at index %d".formatted(i));
+                break;
             }
+            sc.close();
         }
-        sc.close();
     }
 }
+
+// <<<--------------------------------Output-------------------------------->>>
+
+// Enter array size : 5
+// Enter array elements : 1 2 3 4 5
+// Enter number to find : 4
+// Number found at index 3
