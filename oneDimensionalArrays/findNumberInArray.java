@@ -1,4 +1,4 @@
-package arrays;
+package oneDimensionalArrays;
 import java.util.Scanner;
 public class findNumberInArray {
     public static void main(String[] args) {

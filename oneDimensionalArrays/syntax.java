@@ -1,4 +1,4 @@
-package arrays;
+package oneDimensionalArrays;
  public class syntax {
  
     public static void main(String[] args) {
