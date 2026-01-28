@@ -35,4 +35,15 @@ public class syntax {
     }
 }
 
+// <<<-----------------------Output----------------------->>>
 
+// Enter no of rows : 3
+// Enter no of columns : 4
+// Enter matrix Elements : 
+// 1 2 3 4
+// 4 3 2 1
+// 5 6 7 8
+// Matrix elements are : 
+// 1 2 3 4 
+// 4 3 2 1
+// 5 6 7 8
