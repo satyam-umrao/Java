@@ -29,3 +29,7 @@ public class inputInArray {
 
 
 // <<<-----------------------Output----------------------->>>
+
+// Enter array size : 5
+// Enter array elements : 1 2 3 4 5
+// Array elements are : 1 2 3 4 5 
