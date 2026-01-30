@@ -21,19 +21,19 @@ public class allmethods {
         System.out.println(name.charAt(3));
 
         // substring or slicing
-        System.out.println(name.substring(0,7));
+        System.out.println(name.substring(0, 7));
 
         // append
         name.append(" umrao");
         System.out.println(name);
 
-        //repeating any string
+        // repeating any string
         System.out.println(name.repeat(name, 10));
 
-        //delete
+        // delete
         System.out.println(name.delete(0, 7));
-        
-        //insert
+
+        // insert
         System.out.println(name.insert(0, "Mr. "));
 
         // reverse
@@ -42,10 +42,6 @@ public class allmethods {
         // uppercase and lowercase
         System.out.println(name.toString().toUpperCase());
         System.out.println(name.toString().toLowerCase());
-
-
-
-
 
         sc.close();
     }
