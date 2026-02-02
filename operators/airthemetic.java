@@ -57,3 +57,15 @@ public class airthemetic {
 }
 
 // <<<------------------------Output------------------------>>>
+//
+// Addition: 15
+// Subtraction: 5
+// Multiplication: 50
+// Division: 2
+// Modulus: 0
+// Pre-increment: 11
+// Post-increment: 5
+// Value of b after post-increment: 6
+// Pre-decrement: 10
+// Post-decrement: 6
+// Value of b after post-decrement: 5
