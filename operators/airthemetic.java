@@ -1,15 +1,15 @@
 // Airthemetic operators in Java
-// -------------------------------------------------------------------------
-// 1. Addition (+)          | performs addition between two numbers        |
-// 2. Subtraction (-)       | performs subtraction between two numbers     |
-// 3. Multiplication (*)    | performs multiplication between two numbers  |
-// 4. Division (/)          | performs division between two numbers        |
-// 5. Modulus (%)           | finds remainder after division               |
-// -------------------------------------------------------------------------
-// unary operators                                                         |
-// 1. Increment (++)  {++x (Pre-increment) or x++ (Post-increment)}        | 
-// 2. Decrement (--)  {--x (Pre-decrement) or x-- (Post-decrement)}        |
-// -------------------------------------------------------------------------
+// ---------------------------------------------------------------------------
+// 1. Addition (+)          | performs addition between two numbers          |
+// 2. Subtraction (-)       | performs subtraction between two numbers       |
+// 3. Multiplication (*)    | performs multiplication between two numbers    |
+// 4. Division (/)          | performs division between two numbers          |
+// 5. Modulus (%)           | finds remainder after division                 |
+// ---------------------------------------------------------------------------
+// unary operators                                                           |
+// 1. Increment (++)        | {++x (Pre-increment) or x++ (Post-increment)}  | 
+// 2. Decrement (--)        | {--x (Pre-decrement) or x-- (Post-decrement)}  |
+// ---------------------------------------------------------------------------
 package operators;
 
 public class airthemetic {
