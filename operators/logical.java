@@ -1,9 +1,9 @@
 // logical operators ------->
-// ---------------------------------------------------------
-// && (Logical AND) | True if both operands are true.      |
-// || (Logical OR)  | True if at least one operand is true.|
-// ! (Logical NOT)  | True if the operand is false.        |
-// ---------------------------------------------------------
+// -----------------------------------------------------------
+// && (Logical AND) | True if both operands are true.        |
+// || (Logical OR)  | True if at least one operand is true.  |
+// ! (Logical NOT)  | True if the operand is false.          |
+// -----------------------------------------------------------
 
 package operators;
 
