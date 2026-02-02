@@ -37,3 +37,12 @@ public class assignment {
         System.out.println("After x %= 3: " + x);
     }
 }
+
+// <<<---------------------------Output--------------------------->>>
+//
+// Initial value of x: 10
+// After x += 5: 15
+// After x -= 3: 12
+// After x *= 2: 24
+// After x /= 4: 6
+// After x %= 3: 0
