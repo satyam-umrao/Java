@@ -1,7 +1,8 @@
 // Bit Manipulation - Set bit
 // OR operation
 
-// Question -> S
+// Question -> set the bit at position 1 in the number 5
+// number = 5, bit_position = 1
 
 package Bit_manipulation;
 
@@ -16,7 +17,7 @@ public class set {
     }
 }
 
-// Output -> 7 (111)et the bit at ith position of a number n.
+// Output -> 7
 
 // logic --------------->
 // 1 = 0001
