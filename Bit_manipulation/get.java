@@ -21,5 +21,23 @@ public class get {
 }
 
 // <<<---------------------Output--------------------->>>
-//
 // Bit is Zero
+// <<<------------------------------------------------>>>
+
+// <-------------Logic-------------->
+// number = 5 = 0101
+// required bit =3
+// 1 = 0001
+
+// Step 1 ------------->
+// so, 1 << required bit
+// that is, 0001 << 3
+// Answer = 1000
+
+// Step 2 ------------->
+// answer & number
+// 1000 & 0101
+// ---> 0000
+
+// if output is zero then bit is 0.
+// else, bit is one.
