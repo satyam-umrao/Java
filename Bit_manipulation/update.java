@@ -26,7 +26,7 @@ public class update {
         int bitIsToUpdate = 1;
 
         int updatedNumber = updateBit(n, position, bitIsToUpdate);
-        System.out.println("Updated number: " + updatedNumber); // Output: 7 (binary 111)
+        System.out.println("Updated number: " + updatedNumber);
     }
 }
 
