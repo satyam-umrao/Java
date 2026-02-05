@@ -21,3 +21,6 @@ public class insertion_sort {
         Sorted_array(arr);
     }
 }
+
+// <<<--------------------Output-------------------->>>
+// 1 2 3 5 6 7
