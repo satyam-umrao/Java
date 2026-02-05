@@ -22,3 +22,6 @@ public class Selection_sort {
         Sorted_array(arr);
     }
 }
+
+// <<<-------------------Output------------------->>>
+// 2 3 6 7 9
