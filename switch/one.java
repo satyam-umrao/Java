@@ -1,4 +1,6 @@
+
 import java.util.*;
+
 public class one {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -12,14 +14,20 @@ public class one {
         System.out.print("add, mul, sub, div\nchoice : ");
         String c = sc.nextLine();
         switch (c) {
-            case "add" :System.out.println(a + b);
+            case "add":
+                System.out.println(a + b);
                 break;
-            case "sub" :System.out.println(a - b);
+            case "sub":
+                System.out.println(a - b);
                 break;
-            case "mul" :System.out.println(a * b);
+            case "mul":
+                System.out.println(a * b);
                 break;
-            case "div" :System.out.println(a / b);
-            default    :System.out.println("Ibnvalid Choice");
+            case "div":
+                System.out.println(a / b);
+                break;
+            default:
+                System.out.println("Ibnvalid Choice");
         }
 
         sc.close();
