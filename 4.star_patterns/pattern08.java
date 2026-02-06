@@ -1,4 +1,3 @@
-package star_patterns;
 public class pattern08 {
     public static void main(String[] args) {
         // simple heart pattern
@@ -30,14 +29,13 @@ public class pattern08 {
     }
 }
 
-
 // <<<-------------- Output -------------------->
-// 
-//  ***   ***
+//
+// *** ***
 // ***** *****
 // ***********
-//  *********
-//   *******
-//    *****
-//     ***
-//      *
+// *********
+// *******
+// *****
+// ***
+// *

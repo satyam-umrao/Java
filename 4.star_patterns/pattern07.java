@@ -1,5 +1,3 @@
-package star_patterns;
-
 public class pattern07 {
     public static void main(String[] args) {
         // butterfly pattern
@@ -31,16 +29,15 @@ public class pattern07 {
     }
 }
 
-
 // <<<-------------- Output -------------------->
 
-// *        *
-// **      **
-// ***    ***
-// ****  ****
+// * *
+// ** **
+// *** ***
+// **** ****
 // **********
 // **********
-// ****  ****
-// ***    ***
-// **      **
-// *        *
+// **** ****
+// *** ***
+// ** **
+// * *
