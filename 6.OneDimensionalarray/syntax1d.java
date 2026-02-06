@@ -1,4 +1,4 @@
-public class syntax {
+public class syntax1d {
 
     public static void main(String[] args) {
         int arr[] = { 1, 2, 3 };
