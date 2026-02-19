@@ -19,3 +19,8 @@ public class reverseCounting {
         sc.close();
     }
 }
+
+// Output
+//
+// Enter any number : 5
+// 5 4 3 2 1
