@@ -1,3 +1,18 @@
 {
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "12.sorting_algos",
+        "11.Bit_manipulation",
+        "10.operators",
+        "09.java_stringbuilder",
+        "08.Java_strings",
+        "07.twoDimensionalArrays",
+        "06.OneDimensionalarray",
+        "05.functions",
+        "04.star_patterns",
+        "03.conditional",
+        "02.loops",
+        "01.switch",
+        "13.Recursion"
+    ]
 }
