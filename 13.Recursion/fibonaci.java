@@ -27,5 +27,5 @@ public class fibonaci {
 }
 
 // output
-// Enter any number : 5
-// 0 1 1 2 3 5
+// Enter any number : 22
+// 0 1 1 2 3 5 8 13 21
