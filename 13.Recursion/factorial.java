@@ -2,11 +2,11 @@ import java.util.Scanner;
 
 public class factorial {
     public static void factorial(int n, int count) {
-        if (n == 0) {
+        if (n == 0 || n == 1) {
             System.out.println("Factorial is : %d".formatted(count));
             return;
         }
-        count *= n;
+        count = count * n;
         factorial(n - 1, count);
 
     }
@@ -22,7 +22,7 @@ public class factorial {
     }
 }
 
-// Output
+// optput
 //
 // Enter a number: 5
 // Factorial is : 120
