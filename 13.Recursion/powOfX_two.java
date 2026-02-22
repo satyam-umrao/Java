@@ -29,3 +29,9 @@ public class powOfX_two {
         sc.close();
     }
 }
+
+// Output
+//
+// Enter the value of x: 5
+// Enter the value of n: 4
+// 625
