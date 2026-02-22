@@ -26,3 +26,9 @@ public class powerOfX {
         sc.close();
     }
 }
+
+// output
+//
+// Enter the base (x): 5
+// Enter the exponent (n): 4
+// 625
