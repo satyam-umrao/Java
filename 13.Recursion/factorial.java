@@ -1,13 +1,13 @@
 import java.util.Scanner;
 
 public class factorial {
-    public static void factorial(int n, int count) {
+    public static void fact(int n, int count) {
         if (n == 0 || n == 1) {
             System.out.println("Factorial is : %d".formatted(count));
             return;
         }
         count = count * n;
-        factorial(n - 1, count);
+        fact(n - 1, count);
 
     }
 
@@ -17,7 +17,7 @@ public class factorial {
         int n = sc.nextInt();
 
         int count = 1;
-        factorial(n, count);
+        fact(n, count);
         sc.close();
     }
 }
