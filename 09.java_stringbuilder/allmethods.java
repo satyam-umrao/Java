@@ -26,7 +26,7 @@ public class allmethods {
         System.out.println(name);
 
         // repeating any string
-        System.out.println(name.repeat(name, 10));
+        System.out.println(name.toString().repeat(10));
 
         // delete
         System.out.println(name.delete(0, 7));
