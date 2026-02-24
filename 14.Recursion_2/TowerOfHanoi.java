@@ -17,3 +17,9 @@ public class TowerOfHanoi {
         Hanoi(n, start, helper, destination);
     }
 }
+
+// Output
+//
+// transfer of S to h
+// Transfer of S to d
+// transfer of h to d
