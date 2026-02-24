@@ -14,3 +14,7 @@ public class Reversed_str {
         reverse(a, index);
     }
 }
+
+// Output
+//
+// maytaS
