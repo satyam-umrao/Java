@@ -22,3 +22,7 @@ public class removeDuplicates {
         rmd(a, 0, "");
     }
 }
+
+// Output
+//
+// abcd
