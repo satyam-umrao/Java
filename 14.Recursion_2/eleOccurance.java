@@ -25,3 +25,8 @@ public class eleOccurance {
         occurance(a, 0, elem);
     }
 }
+
+// output
+//
+// 3
+// 8
