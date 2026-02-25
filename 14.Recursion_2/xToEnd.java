@@ -23,3 +23,7 @@ public class xToEnd {
         move(0, a, 0, str);
     }
 }
+
+// Output
+//
+// jhgsnxxxxx
