@@ -18,3 +18,14 @@ public class subStrings {
         subst(a, 0, "");
     }
 }
+
+// Output
+//
+// abc
+// ab
+// ac
+// a
+// bc
+// b
+// c
+//
