@@ -16,3 +16,7 @@ public class incrArray {
         System.out.println(result);
     }
 }
+
+// Output
+//
+// true
