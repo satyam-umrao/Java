@@ -1,6 +1,6 @@
 // find number of combination made by pressing n digits on phone keypad
 public class keypad {
-    public static String keys[] = { ".", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz" };
+    public static String keys[] = { ".", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz" };
 
     public static void combinations(String n, int idx, String combString) {
         if (idx == n.length()) {
@@ -11,7 +11,7 @@ public class keypad {
         String mapping = keys[current_character - '0'];
 
         for (int i = 0; i < mapping.length(); i++) {
-            combinations(mapping, idx + 1, combString + mapping.charAt(i));
+            combinations(n, idx + 1, combString + mapping.charAt(i));
         }
     }
 
@@ -20,3 +20,15 @@ public class keypad {
         combinations(n, 0, "");
     }
 }
+
+// output added
+//
+// ad
+// ae
+// af
+// bd
+// be
+// bf
+// cd
+// ce
+// cf
