@@ -1,6 +1,7 @@
 {
     "java.debug.settings.onBuildFailureProceed": true,
     "java.project.sourcePaths": [
+        "14.Recursion_2",
         "13.Recursion",
         "12.sorting_algos",
         "11.Bit_manipulation",
@@ -14,6 +15,6 @@
         "03.conditional",
         "02.loops",
         "01.switch",
-        "14.Recursion_2"
+        "15.Recursion_3"
     ]
 }
