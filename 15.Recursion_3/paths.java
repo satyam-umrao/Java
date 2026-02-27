@@ -17,9 +17,13 @@ public class paths {
     }
 
     public static void main(String[] args) {
-        int n = 3;
+        int n = 4;
         int m = 3;
         int path = pathCalc(0, 0, n, m);
         System.out.println(path);
     }
 }
+
+// Output
+//
+// 10
