@@ -18,3 +18,12 @@ public class permutations {
         permutate(a, "");
     }
 }
+
+// output
+//
+// ABC
+// ACB
+// BAC
+// BCA
+// CAB
+// CBA
