@@ -6,7 +6,7 @@ public class permutations {
             System.out.println(permuString);
             return;
         }
-        for (int i = 0; i <= a.length(); i++) {
+        for (int i = 0; i < a.length(); i++) {
             char currentChar = a.charAt(i);
             String newChar = a.substring(0, i) + a.substring(i + 1);
             permutate(newChar, permuString + currentChar);
